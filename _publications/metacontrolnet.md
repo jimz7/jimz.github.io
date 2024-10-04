@@ -10,7 +10,7 @@ citation: #'J.Zhao, et al. <i>arXiv:2403.17404</i>'
 
 [[arXiv2024]](https://arxiv.org/abs/2312.01255)
 
-![Teaser image for Meta ControlNet](/images/metacontrolnet_teaser.png)
+![Teaser image for Meta ControlNet]({{ site.baseurl }}/images/metacontrolnet_teaser.png)
 
 
 ## Abstract
