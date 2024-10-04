@@ -21,7 +21,7 @@ repository               : "jimz7/jimz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "abs.png"
   name             : "Jinze Zhao"
   pronouns         : "he/him"  
   bio              : "I am a Master student in the Department of Electrical and Computer Engineering at the University of Texas at Austin."
