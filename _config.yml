@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "abs.png"
   name             : "Jinze Zhao"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "I am a Master student in the Department of Electrical and Computer Engineering at the University of Texas at Austin."
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
@@ -146,8 +146,8 @@ social:
 # Analytics
 analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
+  google: #
+    tracking_id          : #
 
 
 # Reading Files
@@ -217,12 +217,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
