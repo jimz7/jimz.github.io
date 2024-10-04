@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a graduate student pursuing M.S. in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I hold dual B.S. degrees in Electrical and Computer Engineering and Mathematics (with Honors) from UT Austin.
+I'm a graduate student pursuing M.S. in [Electrical and Computer Engineering](https://www.ece.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). Previously, I received B.S. in Electrical and Computer Engineering and B.S. in Mathematics (with Honors) from UT Austin.
 
 My research focuses on Machine Learning, especially understanding and improving the generalization of models. Currently I work as a Research Assistant at [VITA](https://vita-group.github.io/group.html) lab.
 

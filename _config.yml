@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "abs.png"
   name             : "Jinze Zhao"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "I am a Master student in the Department of Electrical and Computer Engineering at the University of Texas at Austin."
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
