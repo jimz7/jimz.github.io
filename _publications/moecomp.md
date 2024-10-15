@@ -3,7 +3,7 @@ title: "Enhancing Generalization in Sparse Mixture of Experts Models: The Case f
 category: conferences
 collection: publications
 permalink: /publications/moecomp
-venue: "arXiv"
+venue: "NeurIPS 2024 Workshop on Compositional Learning: Perspectives, Methods, and Paths Forward"
 date: 2024-09-06
 citation: #'J.Zhao, et al. <i>arXiv:2403.17404</i>'
 ---
